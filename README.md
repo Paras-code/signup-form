@@ -9,4 +9,3 @@ you can enter using username,email and password
 password and confirm password should be same
 
 it is made using Html and css
-
