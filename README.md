@@ -8,4 +8,4 @@ you can enter using username,email and password
 
 password and confirm password should be same
 
-it is
+it is made
