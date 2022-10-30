@@ -1,11 +1,11 @@
-# signup-form
+## Signup-form
 
-it is a simple sign up form design
+It is a simple sign up form design
 
-you can login with facebook,geogle and twitter
+You can login with facebook, google and twitter
 
-you can enter using username,email and password
+You can enter using username, email and password
 
-password and confirm password should be same
+Password and confirm password should be same
 
-it is made using Html and css
+It is made using Html and css
