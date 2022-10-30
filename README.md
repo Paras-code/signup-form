@@ -10,3 +10,5 @@ password and confirm password should be same
 
 it is made using Html and css
 
+The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.
+
