@@ -6,4 +6,4 @@ you can login with facebook,geogle and twitter
 
 you can enter using username,email and password
 
-password and
+password and confirm
